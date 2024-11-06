@@ -29,6 +29,8 @@
 
 - [PR-Counter](https://github.com/code-front-braga/PR-Counter)
 - [PR-Body_Mass_Index](https://github.com/code-front-braga/PR-Body_Mass_Index)
+- [PR-Quiz_Programming](https://github.com/code-front-braga/PR-Quiz_Programming)
+- [STY-JS_Methods_and_Properties](https://github.com/code-front-braga/STY-JS_Methods_and_Properties_Examples)
 
 
 ###
