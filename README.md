@@ -11,12 +11,6 @@
 ###
 
 <div align="left">
-  <img height="500" width="100%" src="https://media.licdn.com/dms/image/v2/D4D22AQGsoyGIUWs7nw/feedshare-shrink_1280/feedshare-shrink_1280/0/1726580827356?e=1729728000&v=beta&t=llg_q3aEB5A76htsfkTKpef3W11bnNq-Z8KXjQXGgBE"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/leonardo-braga-8b7856216/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
