@@ -18,46 +18,14 @@
 
 ###
 
-<h2>Repositórios Atualizados</h2>
+<h2>Repositórios Relevantes</h2>
 
-- [PR-Web_Clock](https://github.com/code-front-braga/PR-Basic_Clock)
-- [PR-Chronometer](https://github.com/code-front-braga/PR-Chronometer/)
-- [PR-Calculator](https://github.com/code-front-braga/PR-Basic_Calculator)
-- [PR-Whats_Your_Sign](https://github.com/code-front-braga/PR-Whats_Your_Sign)
-
-<h2>Novos Repositórios Adicionados</h2>
-
-- [PR-Counter](https://github.com/code-front-braga/PR-Counter)
-- [PR-Body_Mass_Index](https://github.com/code-front-braga/PR-Body_Mass_Index)
-- [PR-Quiz_Programming](https://github.com/code-front-braga/PR-Quiz_Programming)
-- [STY-JS_Methods_and_Properties](https://github.com/code-front-braga/STY-JS_Methods_and_Properties_Examples)
-
-
-###
-
-<p align="left">Antes de explorar meus repositórios, peço gentilmente que leia as informações a seguir!</p>
-
-###
-
-<h2 align="left">Organização e Nomenclaturas</h2>
-
-###
-
-Para facilitar a organização, utilizarei os seguintes prefixos para os repositórios:
-- **PR _(Project)_:** para projetos.
-- **STY _(Study)_:** para materiais de estudo.
-- **CHLG _(Challenge)_:** para desafios.
-- **UTIL_(nome)_:** para utilidades.
-
-A formatação final dos nomes dos repositórios será:
-
-Ex.:
-
-- _**PR-Nome_do_Projeto**_
-- _**STY-Nome_do_Tema**_
-- _**CHLG-Nome_do_Desafio-Plataforma**_
-
-Cada repositório contará com um README que detalhará todas as informações relevantes sobre ele.
+- [Site pessoal](https://github.com/code-front-braga/Next_JS_Portfolio_Leonardo_Braga)
+- [e-listou!](https://github.com/code-front-braga/e-listou)
+- [Encurtador de URL](https://github.com/code-front-braga/link-shortener)
+- [Conversor de Moedas](https://github.com/code-front-braga/currency_swift)
+- [Self Checkout - Mac Donalds](https://github.com/code-front-braga/self-checkout)
+- [Controle de Chamados](https://github.com/code-front-braga/dev-control)
 
 ###
 
