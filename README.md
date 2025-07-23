@@ -24,7 +24,7 @@
 - [e-listou!](https://github.com/code-front-braga/e-listou)
 - [Encurtador de URL](https://github.com/code-front-braga/link-shortener)
 - [Conversor de Moedas](https://github.com/code-front-braga/currency_swift)
-- [Self Checkout - Mac Donalds](https://github.com/code-front-braga/self-checkout)
+- [Self Checkout - Mac Donalds](https://github.com/code-front-braga/fsc-self-checkout)
 - [Controle de Chamados](https://github.com/code-front-braga/dev-control)
 
 ###
