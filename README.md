@@ -6,7 +6,34 @@
 
 ###
 
-<p align="left">Sou um estudante de programação dedicado, em busca da minha primeira oportunidade de trabalho. Atualmente, estou focado no <strong>Desenvolvimento Web</strong>, com o objetivo de me tornar um <i>arquiteto de software</i> no futuro. Estou continuamente aprimorando minhas habilidades para alcançar esse nível. Tenho uma grande paixão por escrever códigos bem organizados e concisos, sempre buscando maneiras de torná-los mais eficientes e simplificados.</p>
+# 👋 Sobre mim
+
+Atuo como **estagiário em Desenvolvimento Web**, com foco na construção e manutenção de aplicações modernas utilizando **Next.js 16**. Tenho interesse em **arquitetura de software** e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
+
+Valorizo código **simples, legível e eficiente**, evitando complexidade desnecessária e priorizando soluções fáceis de manter. Estou em constante evolução técnica, aplicando o aprendizado na prática do dia a dia.
+
+---
+
+## 🛠️ Stack
+
+### Frontend / Full Stack
+- Next.js 16 (App Router)
+- React
+- TypeScript
+
+### Backend / Infra
+- Prisma ORM
+- Auth.js (v5)
+- Better-auth
+- PostgreSQL
+
+### Qualidade & Formulários
+- Zod
+- React Hook Form
+
+### UI
+- Tailwindcss
+- shadcn/ui
 
 ###
 
@@ -15,17 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h2>Repositórios Relevantes</h2>
-
-- [Site pessoal](https://github.com/code-front-braga/Next_JS_Portfolio_Leonardo_Braga)
-- [e-listou!](https://github.com/code-front-braga/e-listou)
-- [Encurtador de URL](https://github.com/code-front-braga/link-shortener)
-- [Conversor de Moedas](https://github.com/code-front-braga/currency_swift)
-- [Self Checkout - Mac Donalds](https://github.com/code-front-braga/fsc-self-checkout)
-- [Controle de Chamados](https://github.com/code-front-braga/dev-control)
 
 ###
 
@@ -53,16 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-</div>
-
-###
-
-<h2 align="left">Ferramentas</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
