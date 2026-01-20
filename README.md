@@ -4,7 +4,7 @@
 
 # 👋 Sobre mim
 
-Atuo como **estagiário em Desenvolvimento Web**, com foco na construção e manutenção de aplicações modernas utilizando **Next.js 16**. Tenho interesse em **arquitetura de software** e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
+Atuo como **estagiário em Desenvolvimento Web**, com foco na construção e manutenção de aplicações modernas utilizando **Next.js 16**, framework que adoto como base principal nos meus projetos. Tenho interesse em **arquitetura de software** e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
 
 Valorizo código **simples, legível e eficiente**, evitando complexidade desnecessária e priorizando soluções fáceis de manter. Estou em constante evolução técnica, aplicando o aprendizado na prática do dia a dia.
 
@@ -12,24 +12,21 @@ Valorizo código **simples, legível e eficiente**, evitando complexidade desnec
 
 ## 🛠️ Stack
 
-### Frontend / Full Stack
-- Next.js 16 (App Router)
-- React
-- TypeScript
+### Tecnologias principais
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Backend / Infra
-- Prisma ORM
-- Auth.js (v5)
-- Better-auth
-- PostgreSQL
-
-### Qualidade & Formulários
-- Zod
-- React Hook Form
+### Autenticação & Qualidade
+![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=flat)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat)
 
 ### UI
-- Tailwindcss
-- shadcn/ui
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
+
 
 ###
 
