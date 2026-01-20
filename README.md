@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
 # 👋 Sobre mim
 
 Atuo como **estagiário em Desenvolvimento Web**, com foco na construção e manutenção de aplicações modernas utilizando **Next.js 16**. Tenho interesse em **arquitetura de software** e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
