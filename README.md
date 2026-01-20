@@ -68,3 +68,5 @@ Valorizo código **simples, legível e eficiente**, evitando complexidade desnec
 </div>
 
 ###
+
+<img src='https://wallpapercave.com/wp/wp11846969.jpg' alt='Logo Nextjs' />
