@@ -4,9 +4,9 @@
 
 # 👋 Sobre mim
 
-Atuo como **estagiário em Desenvolvimento Web**, com foco na construção e manutenção de aplicações modernas utilizando **Next.js 16**, framework que adoto como base principal nos meus projetos. Tenho interesse em **arquitetura de software** e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
+Atuo em Desenvolvimento Web com foco na construção e manutenção de aplicações modernas utilizando Next.js como principal framework. Tenho interesse em arquitetura de software e busco desenvolver uma base sólida em boas práticas, organização de código e decisões técnicas bem estruturadas.
 
-Valorizo código **simples, legível e eficiente**, evitando complexidade desnecessária e priorizando soluções fáceis de manter. Estou em constante evolução técnica, aplicando o aprendizado na prática do dia a dia.
+Valorizo código simples, legível e eficiente, evitando complexidade desnecessária e priorizando soluções fáceis de manter. Estou em constante evolução técnica, aplicando o aprendizado na prática e contribuindo para o desenvolvimento de interfaces modernas e bem estruturadas.
 
 ---
 
